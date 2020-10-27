@@ -1,0 +1,10 @@
+C:\Users\gusta\source\repos\LeituraClasseDesenho\LeituraClasseDesenho\bin\Debug\LeituraClasseDesenho.exe.config
+C:\Users\gusta\source\repos\LeituraClasseDesenho\LeituraClasseDesenho\bin\Debug\LeituraClasseDesenho.exe
+C:\Users\gusta\source\repos\LeituraClasseDesenho\LeituraClasseDesenho\bin\Debug\LeituraClasseDesenho.pdb
+C:\Users\gusta\source\repos\LeituraClasseDesenho\LeituraClasseDesenho\obj\Debug\LeituraClasseDesenho.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\LeituraClasseDesenho\LeituraClasseDesenho\obj\Debug\LeituraClasseDesenho.Form1.resources
+C:\Users\gusta\source\repos\LeituraClasseDesenho\LeituraClasseDesenho\obj\Debug\LeituraClasseDesenho.Properties.Resources.resources
+C:\Users\gusta\source\repos\LeituraClasseDesenho\LeituraClasseDesenho\obj\Debug\LeituraClasseDesenho.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\LeituraClasseDesenho\LeituraClasseDesenho\obj\Debug\LeituraClasseDesenho.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\LeituraClasseDesenho\LeituraClasseDesenho\obj\Debug\LeituraClasseDesenho.exe
+C:\Users\gusta\source\repos\LeituraClasseDesenho\LeituraClasseDesenho\obj\Debug\LeituraClasseDesenho.pdb
